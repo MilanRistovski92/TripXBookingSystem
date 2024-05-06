@@ -1,0 +1,12 @@
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\bin\Debug\net6.0\TripXBookingSystem.Models.deps.json
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\bin\Debug\net6.0\TripXBookingSystem.Models.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\bin\Debug\net6.0\TripXBookingSystem.Models.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.AssemblyInfo.cs
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\refint\TripXBookingSystem.Models.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\TripXBookingSystem.Models.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Models\obj\Debug\net6.0\ref\TripXBookingSystem.Models.dll

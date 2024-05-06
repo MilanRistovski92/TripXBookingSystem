@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TripXBookingSystem.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TripXBookingSystem.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TripXBookingSystem.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TripXBookingSystem.Models/1.0.0": {
+      "type": "project",
+      "path": "../TripXBookingSystem.Models/TripXBookingSystem.Models.csproj",
+      "msbuildProject": "../TripXBookingSystem.Models/TripXBookingSystem.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TripXBookingSystem.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Milan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Milan\\source\\repos\\TripXBookingSystem.API\\TripXBookingSystem.DataStore\\TripXBookingSystem.DataStore.csproj",
+      "projectName": "TripXBookingSystem.DataStore",
+      "projectPath": "C:\\Users\\Milan\\source\\repos\\TripXBookingSystem.API\\TripXBookingSystem.DataStore\\TripXBookingSystem.DataStore.csproj",
+      "packagesPath": "C:\\Users\\Milan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Milan\\source\\repos\\TripXBookingSystem.API\\TripXBookingSystem.DataStore\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Milan\\source\\repos\\TripXBookingSystem.API\\TripXBookingSystem.Models\\TripXBookingSystem.Models.csproj": {
+              "projectPath": "C:\\Users\\Milan\\source\\repos\\TripXBookingSystem.API\\TripXBookingSystem.Models\\TripXBookingSystem.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

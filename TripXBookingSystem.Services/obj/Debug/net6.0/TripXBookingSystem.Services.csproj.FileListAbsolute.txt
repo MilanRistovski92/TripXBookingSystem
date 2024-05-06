@@ -1,0 +1,17 @@
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.Services.deps.json
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.Services.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.Services.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.DataStore.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.Models.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.DataStore.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\bin\Debug\net6.0\TripXBookingSystem.Models.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.AssemblyInfo.cs
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.csproj.CopyComplete
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\refint\TripXBookingSystem.Services.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\TripXBookingSystem.Services.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Services\obj\Debug\net6.0\ref\TripXBookingSystem.Services.dll

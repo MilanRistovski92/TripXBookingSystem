@@ -1,0 +1,12 @@
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\bin\Debug\net6.0\TripXBookingSystem.Exceptions.deps.json
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\bin\Debug\net6.0\TripXBookingSystem.Exceptions.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\bin\Debug\net6.0\TripXBookingSystem.Exceptions.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.AssemblyInfo.cs
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\refint\TripXBookingSystem.Exceptions.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\TripXBookingSystem.Exceptions.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.Exceptions\obj\Debug\net6.0\ref\TripXBookingSystem.Exceptions.dll

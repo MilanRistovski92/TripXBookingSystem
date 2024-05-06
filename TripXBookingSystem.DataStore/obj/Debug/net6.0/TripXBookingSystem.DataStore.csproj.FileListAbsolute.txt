@@ -1,0 +1,15 @@
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\bin\Debug\net6.0\TripXBookingSystem.DataStore.deps.json
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\bin\Debug\net6.0\TripXBookingSystem.DataStore.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\bin\Debug\net6.0\TripXBookingSystem.DataStore.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\bin\Debug\net6.0\TripXBookingSystem.Models.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\bin\Debug\net6.0\TripXBookingSystem.Models.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.AssemblyInfo.cs
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.csproj.CopyComplete
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\refint\TripXBookingSystem.DataStore.dll
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\TripXBookingSystem.DataStore.pdb
+C:\Users\Milan\source\repos\TripXBookingSystem.API\TripXBookingSystem.DataStore\obj\Debug\net6.0\ref\TripXBookingSystem.DataStore.dll
